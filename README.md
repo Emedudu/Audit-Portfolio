@@ -1,5 +1,10 @@
 # Portfolio
 
+[Code4rena](https://code4rena.com/@Emmanuel)
+[Sherlock](https://audits.sherlock.xyz/watson/Emmanuel)
+[Cantina](https://cantina.xyz/u/emmanuel)
+[Immunefi](https://immunefi.com/profile/Emmanuel001/)
+
 ## Rust and Rust-variants
 
 | Project        | Project review type | Date           | Review type          | Result                                                                                                   |
